@@ -12,7 +12,7 @@
 }
 .header{
     grid-area: header;
-    background: #e5ece6;
+    background: #333;
     color: white;
     display: flex;
     align-items: center;
